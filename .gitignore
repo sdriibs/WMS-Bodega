@@ -1,0 +1,14 @@
+# Base de datos local
+*.db
+
+# Archivos Excel de prueba
+*.xlsx
+*.xls
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales (si usas)
+venv/
+env/
