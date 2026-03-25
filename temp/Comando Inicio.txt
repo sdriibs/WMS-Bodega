@@ -1,0 +1,10 @@
+Comando Inicio
+
+pyinstaller --onefile --windowed resumen_bodega.py
+
+Actualizar el ejecutable
+
+No problemas con antivirus
+python -m PyInstaller --windowed --hidden-import openpyxl resumen_bodega.py
+
+;)
